@@ -2,7 +2,7 @@
 title: 志在远方
 SEOTitle: Meter_Bulacn的博客 | 志在远方
 header-img: img/post-bg-desk.jpg
-email: lbc.brightest.star@gmail.com
+email: lbc.brightest.star@gmail.com | kaifachengxu@126.com
 description: "The sea of knowledge"
 keyword: "BOBO, 志在远方, 程序优"
 url: "http://chaoboliu.github.io"          # your host, for absolute URL
@@ -92,6 +92,9 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "程序优",
+        href: "http://www.pgnice.com"
+    },{
         title: "Apple",
         href: "https://apple.com"
     },{
